@@ -1,17 +1,17 @@
 ## 1st Jan 2021
-### Subject
+#### Subject
 React
-### Topic
+#### Topic
 Redux
-### Results
+#### Results
 Learned how to use it didn't I
 
 <!---
 ## 1st Jan 2021
-### Subject
+#### Subject
 React
-### Topic
+#### Topic
 Redux
-### Results
+#### Results
 --->
 
