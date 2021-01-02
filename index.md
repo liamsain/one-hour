@@ -7,6 +7,17 @@ Redux
 #### Results
 --->
 
+## 2nd Jan 2021
+#### Subject
+Black Hat Go
+#### Topic
+Http clients and remote interaction
+#### Results
+Learning more about structuring a Go app
+Learning about Shodan API
+Will need to reader chapter 10 of Go Programming book to figure it out properly
+https://golang.org/doc/gopath_code.html also looks good
+
 ## 1st Jan 2021
 #### Subject
 Black Hat Go
