@@ -7,6 +7,14 @@ Redux
 #### Results
 --->
 
+## 3rd Jan 2021
+#### Subject
+React, Typescript, Node
+#### Topic
+Energy monitoring
+#### Results
+Finished energy monitoring app 
+
 ## 2nd Jan 2021
 #### Subject
 Black Hat Go
