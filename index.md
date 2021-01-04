@@ -6,6 +6,13 @@ React
 Redux
 #### Results
 --->
+## 4th Jan 2021
+#### Subject
+Getting text from image
+#### Topic
+Using Tesseract to extract text from an image of my electricity meter
+#### Results
+Nothing coherant
 
 ## 3rd Jan 2021
 #### Subject
