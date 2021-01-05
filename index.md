@@ -6,6 +6,14 @@ React
 Redux
 #### Results
 --->
+## 5th Jan 2021
+#### Subject
+Javascript
+#### Topic
+Beginner's guide to JS
+#### Results
+js file going through the basics
+
 ## 4th Jan 2021
 #### Subject
 Getting text from image
