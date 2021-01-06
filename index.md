@@ -6,6 +6,14 @@ React
 Redux
 #### Results
 --->
+## 6th Jan 2021
+#### Subject
+Speech recognition
+#### Topic
+Making chess moves by saying the moves rather than click and dragging
+#### Results
+Using chrome speech recognition api and chess.js, got basic piece movement working. debugging state of chessboard in ascii
+
 ## 5th Jan 2021
 #### Subject
 Javascript
@@ -37,9 +45,13 @@ Black Hat Go
 Http clients and remote interaction
 #### Results
 Learning more about structuring a Go app
+
 Learning about Shodan API
+
 Will need to reader chapter 10 of Go Programming book to figure it out properly
+
 https://golang.org/doc/gopath_code.html also looks good
+
 
 ## 1st Jan 2021
 #### Subject
@@ -48,7 +60,9 @@ Black Hat Go
 TCP, scanners and proxies
 #### Results
 Learned about how to get round firewalls. 
+
 Create a site that the firewall lets you access
+
 Copy content from blocked site to requester
 
 Created an echo server that you can connect to via telnet. Echoes back to you what you type
