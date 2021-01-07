@@ -6,6 +6,18 @@ React
 Redux
 #### Results
 --->
+## 7th Jan 2021
+#### Subject
+Voice controlled chess
+#### Topic
+Using chessboard js to render chess moves dictated by voice
+#### Results
+An actual chessboard that shows your chess moves.
+
+Also started looking into how to integrate a chess engine opponent. 
+
+If it works it's worth announcing the computer's moves using speech synthesis to complete the voice functionality
+
 ## 6th Jan 2021
 #### Subject
 Speech recognition
