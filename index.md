@@ -6,6 +6,14 @@ React
 Redux
 #### Results
 --->
+## 8th Jan 2021
+#### Subject
+React, js, C#
+#### Topic
+Coding tests
+#### Results
+Completed a few coding tests
+
 ## 7th Jan 2021
 #### Subject
 Voice controlled chess
