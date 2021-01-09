@@ -6,6 +6,15 @@ React
 Redux
 #### Results
 --->
+## 9th Jan 2021
+#### Subject
+Js speech recognition
+#### Topic
+Chess app
+#### Results
+Trying to get the speech recognition library to recognise the word 'rook'.
+not going well
+
 ## 8th Jan 2021
 #### Subject
 React, js, C#
